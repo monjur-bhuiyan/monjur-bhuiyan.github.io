@@ -23,7 +23,7 @@ repository               : "https://monjur-bhuiyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "MOnjur Bhuiyan"
   pronouns         : # example: "He/Him"  
   bio              : " PhD researcher focused on reliability and degradation of elastomeric seals under high-pressure hydrogen environments.
