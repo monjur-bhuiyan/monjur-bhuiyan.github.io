@@ -24,10 +24,9 @@ repository               : "https://monjur-bhuiyan.github.io"
 author:
   # Biographic information
   avatar           : "/images/profile.jpg"
-  name             : "MOnjur Bhuiyan"
+  name             : "Monjur Bhuiyan"
   pronouns         : # example: "He/Him"  
-  bio              : " PhD researcher focused on reliability and degradation of elastomeric seals under high-pressure hydrogen environments.
-  Maintenance & Reliability Engineer with 9+ years in heavy industry, specializing in RCM, RCFA, vibration analysis, CMMS, and KPI-driven reliability improvement."
+  bio              : " PhD Mechanical Engineer I Reliability & Maintenance | ISO Cat II Vibration Analyst | Lean Six Sigma | Project Management | Data Analytics"
   location         : "Norman, OK, USA"
   employer         : "University of Oklahoma"
   uri              : # URL
