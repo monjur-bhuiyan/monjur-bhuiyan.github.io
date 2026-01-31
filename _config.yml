@@ -23,7 +23,7 @@ repository               : "https://monjur-bhuiyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Pic_Artland-MOBIUS.jpg"
+  avatar           : "/images/Pic_Artland-MOBIUS.jpg"
   name             : "Monjur Bhuiyan"
   pronouns         : # example: "He/Him"  
   bio              : " PhD Mechanical Engineer I Reliability & Maintenance | ISO Cat II Vibration Analyst | Lean Six Sigma | Project Management | Data Analytics"
