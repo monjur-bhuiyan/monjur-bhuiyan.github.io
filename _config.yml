@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-6651-1889"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Md-Monjur-Hossain-Bhuiyan?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
