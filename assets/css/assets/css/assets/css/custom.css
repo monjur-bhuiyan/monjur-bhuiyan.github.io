@@ -1,0 +1,30 @@
+/* ================================
+   OU Crimson Sidebar (AcademicPages)
+   ================================ */
+
+/* Sidebar background */
+.author__content,
+.author__avatar,
+.sidebar {
+  background-color: #841617;
+}
+
+/* Sidebar text */
+.author__content,
+.author__content a,
+.author__name,
+.author__bio,
+.author__location,
+.author__links a {
+  color: #ffffff !important;
+}
+
+/* Social icons */
+.author__urls a {
+  color: #ffffff !important;
+}
+
+/* Optional: avatar border */
+.author__avatar img {
+  border: 3px solid #ffffff;
+}
