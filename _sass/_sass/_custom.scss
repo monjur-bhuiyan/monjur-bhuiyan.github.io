@@ -1,0 +1,32 @@
+/* =========================================
+   University of Oklahoma – Crimson Sidebar
+   ========================================= */
+
+/* Sidebar container */
+.sidebar,
+.author__content,
+.author__profile {
+  background-color: #841617 !important;
+}
+
+/* Text inside sidebar */
+.author__name,
+.author__bio,
+.author__location,
+.author__content,
+.author__content a,
+.author__urls a {
+  color: #ffffff !important;
+}
+
+/* Social icons */
+.author__urls .fa,
+.author__urls svg {
+  color: #ffffff !important;
+}
+
+/* Avatar styling */
+.author__avatar img {
+  border: 3px solid #ffffff;
+  background-color: #841617;
+}
