@@ -23,14 +23,13 @@ repository               : "https://monjur-bhuiyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Pic_Artland-MOBIUS.jpg"
-  name             : "Monjur Bhuiyan"
-  pronouns         : # example: "He/Him"  
-  bio              : " PhD Mechanical Engineer I Reliability & Maintenance | ISO Cat II Vibration Analyst | Lean Six Sigma | Project Management | Data Analytics"
-  location         : "Norman, OK, USA"
-  employer         : "University of Oklahoma"
-  uri              : # URL
-  email            : "mhbhuiyan@ou.edu"
+  name: "Md Monjur Hossain Bhuiyan"
+  avatar: "/images/Pic_Artland-MOBIUS.jpg"
+  bio: "PhD researcher | Hydrogen infrastructure reliability | Sealing integrity | Degradation & lifecycle modeling"
+  location: "Norman, OK, USA"
+  employer: "University of Oklahoma"
+  email: "mdmonjur62@gmail.com"
+
 
   # Academic websites
   academia         : # URL
